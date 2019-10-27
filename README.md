@@ -1,3 +1,6 @@
+# GLU
+Glu is a Python program that will take a file as input, turn all the variables you give it into "glus", and create a new file for you to enjoy.
+
 # Use
 ```
 glu.py [file_name] [output_file] [variable_names]
